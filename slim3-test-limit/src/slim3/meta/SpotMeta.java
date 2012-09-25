@@ -1,6 +1,6 @@
 package slim3.meta;
 
-//@javax.annotation.Generated(value = { "slim3-gen", "@VERSION@" }, date = "2012-09-26 01:50:13")
+//@javax.annotation.Generated(value = { "slim3-gen", "@VERSION@" }, date = "2012-09-26 02:14:16")
 /** */
 public final class SpotMeta extends org.slim3.datastore.ModelMeta<slim3.model.Spot> {
 
